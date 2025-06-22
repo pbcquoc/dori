@@ -1,5 +1,5 @@
 # DORI
-This is inference library for DORI https://dorify.net/
+This is inference library for [DORI](https://dorify.net/)
 <div align="center">
   <a href="https://www.youtube.com/watch?v=gEOR42B4KzY">
     <img src="https://img.youtube.com/vi/gEOR42B4KzY/maxresdefault.jpg" alt="Watch the video" width="640">
