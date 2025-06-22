@@ -1,6 +1,12 @@
 # DORI
 This is inference library for DORI https://dorify.net/
-[![Watch the video](https://img.youtube.com/vi/gEOR42B4KzY/maxresdefault.jpg)](https://www.youtube.com/watch?v=gEOR42B4KzY)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=gEOR42B4KzY">
+    <img src="https://img.youtube.com/vi/gEOR42B4KzY/maxresdefault.jpg" alt="Watch the video" width="640">
+    <br>
+    ▶️ Watch Demo
+  </a>
+</div>
 
 ## Install dori inference
 ```
