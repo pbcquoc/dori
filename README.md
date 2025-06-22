@@ -18,7 +18,7 @@ python rec.py [image_file] --model_dir [path_to_model_directory]
 
 ### Example
 ```bash
-python rec.py my_image.jpg --model_dir ./models
+python rec.py test.jpg --model_dir ./models
 ```
 
 The script will print the recognition results to the console. The output will be a list of dictionaries, where each dictionary contains the recognized text, its probability, and other information.
