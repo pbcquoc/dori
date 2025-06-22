@@ -1,4 +1,4 @@
-# dori
+# DORI
 This is inference library for DORI https://dorify.net/
 ## Install dori inference
 ```
