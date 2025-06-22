@@ -1,5 +1,7 @@
 # DORI
 This is inference library for DORI https://dorify.net/
+[![Watch the video](https://img.youtube.com/vi/gEOR42B4KzY/maxresdefault.jpg)](https://www.youtube.com/watch?v=gEOR42B4KzY)
+
 ## Install dori inference
 ```
 pip install https://vocr.vn/data/dori-2.0-py3-none-any.whl
