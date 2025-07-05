@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  dori-inference:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: dori-inference:latest
+    command: ["test.jpg", "--model_dir", "model"] 
